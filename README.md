@@ -45,7 +45,7 @@ Step 4: Retrieve Employees in Marketing (East Building) <br/>
 <p align="center">
 Step 5: Retrieve Employees in Finance or Sales <br/>
    
-<img src="https://github.com/user-attachments/assets/1ca2f5d6-2b24-4720-80b8-333240d07a20" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/2bd8c06a-6a46-4ca1-b85a-09ad760f86e5" width="653" alt="Step 1 Screenshot"/>
 <br />
 
 <p align="center">
