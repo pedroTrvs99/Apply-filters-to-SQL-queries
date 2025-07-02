@@ -33,7 +33,7 @@ Step 2: Retrieve Login Attempts on Specific Dates <br/>
 <p align="center">
 Step 3: Retrieve Login Attempts Outside of Mexico <br/>
    
-<img src="https://github.com/user-attachments/assets/573e429b-6763-48c9-82af-224ba6972756" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/201a45d1-9e01-4773-8416-f204fdd991dd" width="653" alt="Step 1 Screenshot"/>
 <br />
 
 <p align="center">
