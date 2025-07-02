@@ -21,7 +21,7 @@ The primary goal was to develop and execute SQL queries to retrieve relevant dat
 <p align="center">
 Step 1: Retrieve After-Hours Failed Login Attempts <br/>
    
-<img src="https://github.com/user-attachments/assets/ae7d3334-882c-46ae-9f6e-2d3e20f33f11" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/37e11c2a-b09e-4a96-ad7b-2a4ed81f9bf6" width="653" alt="Step 1 Screenshot"/>
 <br />
 
 <p align="center">
