@@ -27,7 +27,7 @@ Step 1: Retrieve After-Hours Failed Login Attempts <br/>
 <p align="center">
 Step 2: Retrieve Login Attempts on Specific Dates <br/>
    
-<img src="https://github.com/user-attachments/assets/6f2acc9f-c6c4-475b-af0c-f78e40ed655b" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/493795e8-c6ca-427d-92d3-b76c4bc75f2d" width="653" alt="Step 1 Screenshot"/>
 <br />
 
 <p align="center">
