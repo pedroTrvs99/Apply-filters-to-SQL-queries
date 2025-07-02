@@ -39,7 +39,7 @@ Step 3: Retrieve Login Attempts Outside of Mexico <br/>
 <p align="center">
 Step 4: Retrieve Employees in Marketing (East Building) <br/>
    
-<img src="https://github.com/user-attachments/assets/2357ae3f-17cb-4ad2-80c8-0b3bf96e35e7" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/9c734fa0-9ede-4ca7-bfe6-0c39d895dcd2" width="653" alt="Step 1 Screenshot"/>
 <br />
 
 <p align="center">
