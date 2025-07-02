@@ -51,7 +51,7 @@ Step 5: Retrieve Employees in Finance or Sales <br/>
 <p align="center">
 Step 6: Retrieve All Employees Not in IT <br/>
    
-<img src="https://github.com/user-attachments/assets/1ca2f5d6-2b24-4720-80b8-333240d07a20" width="653" alt="Step 1 Screenshot"/>
+<img src="https://github.com/user-attachments/assets/3fa2735d-2bf4-48a6-a42c-53a6cc1cbe10" width="653" alt="Step 1 Screenshot"/>
 <br />
 ---
 
